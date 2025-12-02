@@ -105,5 +105,5 @@ Designed a fully isolated home cyber range featuring:
 
 ---
 
-### ⭐ If you like my work, feel free to star my projects!  
+### ⭐ Thanks for reading!  
 
