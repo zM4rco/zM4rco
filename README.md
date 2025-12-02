@@ -1,16 +1,109 @@
-## Hi there 👋
+# 👋 Hi, I'm Marco
 
-<!--
-**zM4rco/zM4rco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Cybersecurity / IT professional** with interests in:
+- Secure coding & application hardening  
+- SOC analysis & blue teaming  
+- Network security & threat detection  
+- Penetration testing fundamentals  
+- Systems administration & automation  
 
-Here are some ideas to get you started:
+I'm currently building real-world projects to strengthen my skills and portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Cybersecurity Projects
+
+### **🛡️ Secure Coding & App Hardening Lab**
+A hands-on environment where I:
+- Build intentionally vulnerable apps  
+- Apply hardening techniques (input validation, auth, encryption, secure storage)  
+- Perform static/dynamic analysis  
+- Document vulnerabilities + fixes  
+
+🔗 *Coming soon*
+
+---
+
+### **🛰️ Mini Cyber Range**
+Designed a fully isolated home cyber range featuring:
+- Segmented networks (DMZ / Internal / External)  
+- SIEM (Splunk)  
+- IDS/IPS (Snort)  
+- Firewall + Honeypots  
+- Penetration testing with Kali  
+
+📄 **Writeup:** *Coming soon*
+
+---
+
+### **📡 Network Monitoring & Log Analysis**
+- Built a Windows Server + Wazuh/Splunk monitoring lab  
+- Created dashboards tracking failed logins, malware indicators, & network activity  
+- Wrote detection rules + alerts  
+
+🔗 *Coming soon*
+
+---
+
+### **🔍 Vulnerability Scanning & Reporting**
+- Ran scans with Nessus/Nmap  
+- Created professional-style vulnerability reports  
+- Remediated issues in a test environment  
+
+📄 *Report coming soon*
+
+---
+
+## ⚙️ Technical Skills
+
+### **Security**
+- SIEM: Splunk, Wazuh  
+- IDS/IPS: Snort  
+- Vulnerability Scanning: Nessus, OpenVAS  
+- Pen Testing Basics: Kali Linux / Metasploit  
+- Secure coding practices
+
+### **IT & Systems**
+- Windows administration  
+- Linux systems  
+- Virtualization (VMware, VirtualBox, Proxmox)  
+- Active Directory basics
+
+### **Networking**
+- TCP/IP, DNS, DHCP  
+- Firewall rules  
+- Wireshark analysis
+
+### **Development**
+- Python (scripting + automation)  
+- PowerShell  
+- Git/GitHub
+
+---
+
+## 📜 Certifications (In Progress / Completed)
+- 🟦 **CompTIA Security+** (Planned)  
+- 🟩 **CompTIA Network+** (Planned)  
+- 🟧 **Microsoft AZ-900 / SC-900** (Planned)  
+- 🟨 **eJPT / TryHackMe Jr PenTester** (Future goal)
+
+---
+
+## 🧪 Current Learning Goals
+- Hardening Windows & web applications  
+- Writing secure code (Python/JS)  
+- Building SOC-style lab environments  
+- Threat detection engineering  
+- Cloud basics (Azure)
+
+---
+
+## 📫 Contact  
+**Email:** marcozhou9@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/marco-zhou-336131309/  
+**GitHub Projects:** (coming soon)
+
+---
+
+### ⭐ If you like my work, feel free to star my projects!  
+
