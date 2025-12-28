@@ -18,6 +18,9 @@ The aim of this project is to demonstrate how a simple insecure web application 
 
 ## What Has Been Built
 
+- Installed all listed tools
+- Configured and connected Git to commit changes to Github remotely
+
 ## Screenshots
 
 ## Results
