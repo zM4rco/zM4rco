@@ -101,7 +101,10 @@ Designed a fully isolated home cyber range featuring:
 ## 📫 Contact  
 **Email:** marcozhou9@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/marco-zhou-336131309/  
-**GitHub Projects:** (coming soon)
+**GitHub Projects:** 
+- Cyber Range Project 
+- Cybersecurity Capstone Project
+- Secure Coding & App Hardening Project (in progress)
 
 ---
 
