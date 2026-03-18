@@ -20,7 +20,7 @@ A hands-on environment where I:
 - Perform static/dynamic analysis  
 - Document vulnerabilities + fixes  
 
-🔗 *Coming soon*
+🔗 
 
 ---
 
@@ -32,7 +32,7 @@ Designed a fully isolated home cyber range featuring:
 - Firewall + Honeypots  
 - Penetration testing with Kali  
 
-📄 **Writeup:** *Coming soon*
+📄 **Writeup:** 
 
 ---
 
@@ -41,7 +41,7 @@ Designed a fully isolated home cyber range featuring:
 - Created dashboards tracking failed logins, malware indicators, & network activity  
 - Wrote detection rules + alerts  
 
-🔗 *Coming soon*
+🔗 
 
 ---
 
